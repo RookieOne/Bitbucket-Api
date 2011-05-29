@@ -1,0 +1,3 @@
+module BitbucketApi
+  # Your code goes here...
+end
